@@ -1,0 +1,12 @@
+.pics{
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    height: 100px;
+    margin-left: 500px;
+    
+}
+.main{
+    margin-left: 500px;
+    padding: 20px;
+}
